@@ -1,0 +1,9 @@
+npm-debug.log
+.DS_Store
+.*.swp
+node_modules/
+bme280-sensor/
+package-lock.json
+.vscode
+
+*-creds.json
